@@ -1,7 +1,7 @@
 Hi there 👋
 I'm David NYIRINGABO
 
-I'M a Fullstack web and mobile applications software developer.
+I'm a Fullstack web and mobile applications software developer.
 
 <br>💫About Me :</br>
 <br>💻Tech Stack:</br>
