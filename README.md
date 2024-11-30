@@ -9,7 +9,7 @@ I'm a **Fullstack Web and Mobile Applications Software Developer** with 4 years 
 - 🌱 I’m currently learning **Kotlin**.  
 - 📫 Reach me via email at [nyiringabodavid62@gmail.com](mailto:nyiringabodavid62@gmail.com).  
 - 😄 Pronouns: He.  
-- ⚡ Fun fact: I enjoy coding, playing piano, football, and ping pong.  
+- ⚡ Fun fact: I enjoy listening slow songs while coding, traveling, wrestling.  
 
 ---
 
