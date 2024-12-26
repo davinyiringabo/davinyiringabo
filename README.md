@@ -50,4 +50,9 @@ I'm a **Fullstack Web and Mobile Applications Software Developer** with 4 years 
 
 ---
 
-<a href="https://app.daily.dev/davidlaghi"><img src="https://api.daily.dev/devcards/9e61023729bc43b7b0aa6f16ffe4ab93.png?r=td6" width="400" alt="David NYIRINGABO's Dev Card"/></a>
+<div align="center">
+  <a href="https://app.daily.dev/davidlaghi"><img src="https://api.daily.dev/devcards/9e61023729bc43b7b0aa6f16ffe4ab93.png?r=td6" width="400" alt="David NYIRINGABO's Dev Card"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=davinyiringabo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=davinyiringabo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davinyiringabo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
