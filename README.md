@@ -1,7 +1,5 @@
-# Hi there 👋  
-I'm **David NYIRINGABO**  
-
-I'm a **Fullstack Web and Mobile Applications Software Developer** with 4 years of experience building robust, scalable, and user-centric applications.  
+# 👋 Hello!
+I'm **David NYIRINGABO**, a **Fullstack Web and Mobile Applications Software Developer** with 4 years of experience building robust, scalable, and user-centric applications.  
 
 ## 💫 About Me  
 
@@ -49,10 +47,17 @@ I'm a **Fullstack Web and Mobile Applications Software Developer** with 4 years 
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)  
 
 ---
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
-<div align="center">
-  <a href="https://app.daily.dev/davidlaghi"><img src="https://api.daily.dev/devcards/9e61023729bc43b7b0aa6f16ffe4ab93.png?r=td6" width="400" alt="David NYIRINGABO's Dev Card"/></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=davinyiringabo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=davinyiringabo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davinyiringabo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davinyiringabo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinyiringabo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davinyiringabo&hide_border=true" />
+</details>
+
+<a href="https://app.daily.dev/davidlaghi"><img src="https://api.daily.dev/devcards/9e61023729bc43b7b0aa6f16ffe4ab93.png?r=td6" width="400" alt="David NYIRINGABO's Dev Card"/></a>
