@@ -59,5 +59,3 @@ I'm **David NYIRINGABO**, a **Fullstack Web and Mobile Applications Software Dev
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davinyiringabo&hide_border=true" />
 </details>
-
-<a href="https://app.daily.dev/davidlaghi"><img src="https://api.daily.dev/devcards/9e61023729bc43b7b0aa6f16ffe4ab93.png?r=td6" width="400" alt="David NYIRINGABO's Dev Card"/></a>
